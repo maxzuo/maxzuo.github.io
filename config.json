@@ -4,15 +4,15 @@
   "name": "Max Zuo",
   "userimg": "https://avatars.githubusercontent.com/u/8988201?v=4",
   "sort": "star",
-  "order": "asc",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "owner"
+   "all"
   ],
   "twitter": null,
   "linkedin": "max-zuo",
   "medium": null,
-  "dribbble": null
+  "stackoverflow": "7871685/m-z"
  }
 ]
