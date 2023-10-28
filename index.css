@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.pexels.com/photos/13554928/pexels-photo-13554928.jpeg");
+    url("imgs/flower.jpeg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.pexels.com/photos/13554928/pexels-photo-13554928.jpeg") center center fixed;
+    url("imgs/flower.jpeg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.pexels.com/photos/13554928/pexels-photo-13554928.jpeg") !important;
+      url("imgs/flower.jpeg") !important;
   }
 }
